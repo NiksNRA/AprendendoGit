@@ -1,1 +1,1 @@
-Olá estou aprendendo a usar o git. Tive que instalar o Git várias vezes porque estavando dando um Bug quando eu instalava no meu HD (disco E:/)
+Olá estou aprendendo a usar o git.
